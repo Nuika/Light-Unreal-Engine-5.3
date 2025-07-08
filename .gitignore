@@ -1,0 +1,33 @@
+# Unreal build output (engine + game)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and build system files
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.VC.db
+*.VC.opendb
+*.log
+*.user
+*.tmp
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Game project content
+Content/
+Config/
+
+# Unreal Engine folders
+FeaturePacks/
+Samples/
+Templates/
+Engine/
+
+
