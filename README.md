@@ -2,5 +2,5 @@
 - Better billboards with pivot editing
 - Volumetric directional fog
 - Fixes to vertex painting
-- *Road and landscape editing tools*
-- *Scene texture resolution scaling*
+- *Road and landscape editing tools - WIP* 
+- *Scene texture resolution scaling - WIP*
