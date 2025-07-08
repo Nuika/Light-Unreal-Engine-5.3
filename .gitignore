@@ -1,23 +1,33 @@
-# Unreal Engine build output
+# Unreal build output (engine + game)
 Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
 Saved/
 
-# Engine-generated files
+# IDE and build system files
 *.sln
 *.opensdf
 *.sdf
+*.suo
 *.VC.db
 *.VC.opendb
 *.log
-
-# Rider / VS / VSCode / IDE stuff
-.idea/
-.vscode/
 *.user
 *.tmp
 
-# Ignore everything in Engine/ unless you explicitly add it
-Engine/*
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Game project content
+Content/
+Config/
+
+# Unreal Engine folders
+FeaturePacks/
+Samples/
+Templates/
+Engine/
+
+
